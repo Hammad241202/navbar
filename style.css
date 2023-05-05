@@ -1,0 +1,14 @@
+.nav
+{
+    height: 50px;
+    background-color: darkolivegreen;
+}
+.nav-link
+{
+    color: azure !important;
+}
+.navbar
+{
+    background-color: darkolivegreen;
+    height: 60px;
+}
